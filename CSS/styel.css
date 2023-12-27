@@ -1,0 +1,146 @@
+*{
+    padding:5px 5px;
+    margin: auto;
+    box-sizing: border-box;
+    font-size: calc(20px+ (35-20)+(100px -320px) /(1920-320));
+    text-decoration: none;
+    width: auto;
+
+}
+
+@media screen and (max-width:700px) {
+    body{
+    width: 1200px;
+    text-decoration: none;
+    }
+}
+
+.row1{
+    margin:20px ;
+}
+
+.haading{
+    margin: 15px;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.para{
+    width:fit-content;
+    text-align:center;
+    padding: 5px;
+    font-size: 15px;
+    
+
+}
+ 
+.row2{
+    background-color: #F8FBEB;
+    width: 30%;
+    display:inline-block;
+    text-align:justify;
+    padding: 80px 50px 80px 20px;
+    border-radius: 30px;
+    margin: 20px ;
+    box-sizing: border-box;
+
+}    
+    
+
+
+.row3{
+    background-color: #F8FBEB;
+    width: 30%;
+    display:inline-block;
+    text-align:justify;
+    padding: 80px 50px 80px 20px;
+    border-radius: 30px;
+    margin: 20px ;
+    box-sizing: border-box;
+
+
+}
+
+
+.row4{
+    background-color: #F8FBEB;
+    width: 30%;
+    display:inline-block;
+    text-align:justify;
+    padding: 80px 50px 80px 20px;
+    border-radius: 30px;
+    margin: 20px ;
+    box-sizing: border-box;
+}
+
+
+.Art{
+    background-color:#F2F4F8 ;
+}
+
+
+.row5{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    margin-top:50px;
+    background-color: #F2F4F8;
+
+
+}
+
+
+.row6{
+    background-color:#FFFFFF;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    border-radius: 20px;
+    margin-right: 20px ;
+    margin-bottom: 20px;
+   
+}
+
+
+div a p{
+    text-decoration:none;
+    color:black;
+    text-align: center;
+    display: block;
+    font-size: 20px;
+}
+
+
+div a p:hover{
+    color: red;
+    margin: auto;
+}
+
+
+.row7{ 
+    text-align: center;
+    margin-top: 30px;
+}
+
+.row8{
+    background-color: #FFFFFF;
+    width: 300px;
+    display: inline-block;
+    padding-bottom:10px ;
+    border-radius: 20px;
+    margin-right: 20px;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.row8 .para6{
+    color:red;
+    font-size: 20px;
+
+
+}
+
+
